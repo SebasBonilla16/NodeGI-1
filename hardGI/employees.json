@@ -1,0 +1,69 @@
+[
+    {
+        "employeeID": 1,
+        "name": "Sebastian Bonilla",
+        "salary": 999999999,
+        "department": "CEO"
+    },
+    {
+        "employeeID": 2,
+        "name": "Benjamin Franklin",
+        "salary": 100,
+        "department": "Treasury"
+    },
+    {
+        "employeeID": 3,
+        "name": "Abraham Lincoln",
+        "salary": 1,
+        "department": "President"
+    },
+    {
+        "employeeID": 4,
+        "name": "Vinsmoke Sanji",
+        "salary": 1000,
+        "department": "Culinary"
+    },
+    {
+        "employeeID": 4,
+        "name": "Monkey D Luffy",
+        "salary": 100000,
+        "department": "Captain"
+    },
+    {
+        "employeeID": 5,
+        "name": "Roronoa Zoro",
+        "salary": 10000,
+        "department": "Security"
+    },
+    {
+        "employeeID": 6,
+        "name": "Franky",
+        "salary": 50000,
+        "department": "Construction"
+    },
+    {
+        "employeeID": 7,
+        "name": "Tony Chopper",
+        "salary": 1000,
+        "department": "Medical"
+    },
+    {
+        "employeeID": 8,
+        "name": "Nami",
+        "salary": 100000,
+        "department": "Navigaton"
+    },
+    {
+        "employeeID": 9,
+        "name": "Naruto Uzumaki",
+        "salary": 10000000,
+        "department": "Hokage"
+    },
+    {
+        "employeeID": 10,
+        "name": "Tengen Uzui",
+        "salary": 8229383,
+        "department": "Hashira"
+    }
+  ]
+  
